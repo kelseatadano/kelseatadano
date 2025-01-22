@@ -6,9 +6,6 @@
     - During spring of my junior year, I joined the Computer Vision and Imaging Biomarkers Lab at UCLA Health; and worked there until the end of my undergrad.
     - 🌞 I am a San Diego Native, and enjoy playing beach volleyball, talking my pup bailey on long walks, listening to podcasts, and making homemade stickers!
 
-### I’m currently working on:
-    - 📊 a fashion trend analysis using social media platforms (tiktok and instagram)
-
 ### I’m currently reading:
     - 🔁 Atomic Habits by James Clear
 
