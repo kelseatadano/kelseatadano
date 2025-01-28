@@ -1,18 +1,8 @@
 ## Hi there I'm Kelsea👋
 
-### About Me
-    - 🎓 I graduated from UCLA with a B.S. in Biology and Data Science Engineering
-    - 👩🏽‍💻 During undergrad, I worked in two research labs. The first being the Social Emotional Technology Lab at the University of California, Santa Cruz. 
-    - During spring of my junior year, I joined the Computer Vision and Imaging Biomarkers Lab at UCLA Health; and worked there until the end of my undergrad.
-    - 🌞 I am a San Diego Native, and enjoy playing beach volleyball, talking my pup bailey on long walks, listening to podcasts, and making homemade stickers!
+###About Me
 
-### I’m currently reading:
-    - 🔁 Atomic Habits by James Clear
-
-### Ask me about:
-    - 🏐 anything about UCLA beach or indoor volleyball.
-    - 📝 my journal(s) setup + prompts that are actually fun to journal.
-    - ☕️ cafe recommendations in LA
+I recently graduated from UCLA with a B.S. in Biology and Data Science Engineering. Through internships in front-end development and UX design, I honed my skills in implementing user-centered solutions. I’m passionate about leveraging my background in biology and data science to drive innovative, data-driven solutions in healthcare. Let’s connect!  
 
 ### How to reach me:\
    - 📞 mobile: (760)-277-9968
